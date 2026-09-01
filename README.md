@@ -6,7 +6,7 @@ This project was created with Claude Code.
 
 A simple sandbox for learning how to use Claude Code to write code, make changes, and ship pull requests to GitHub.
 
-## Geting Started
+## Getting Started
 
 1. Clone the repo
 2. Make a change
